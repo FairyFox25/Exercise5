@@ -5,7 +5,7 @@ addition, subtraction, multiplication, division, and has a history function.
 
 Members: 
   Lillian Horn (hornl)
-  Cleber De Souza Alcantara (desouzaalcantarac@msoe.edu
+  Cleber De Souza Alcantara (desouzaalcantarac)
   
 Java 1.7 compliant
 
